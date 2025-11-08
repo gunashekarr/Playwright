@@ -1,2 +1,2 @@
 # Playwright
-This repo contains automation code for web applications.
+This repo contains automation code for web applications
